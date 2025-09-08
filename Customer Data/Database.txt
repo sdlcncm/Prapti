@@ -1,0 +1,1 @@
+Client Share the Database file of Test and Live Server. DUe to Size limitation it is system folder and deployed in Mysql Database.
